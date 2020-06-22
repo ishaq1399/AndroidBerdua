@@ -9,4 +9,5 @@ public class ApiEndpoints {
     public static final String MATERI = "https://e-lesson.mif-project.com/index.php/MateriApi/get/";
     public static final String MATERI_DETAIL = "https://e-lesson.mif-project.com/index.php/MateriApi/detail/";
     public static final String MAPEL = "https://e-lesson.mif-project.com/index.php/MapelApi/get/";
+    public static final String NILAI = "https://e-lesson.mif-project.com/index.php/NilaiApi/get/";
 }
